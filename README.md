@@ -16,7 +16,7 @@
 - 🏦 I'm currently studying in Vellore Institute of Technology, AP 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I love to code
 - 🤔 I use daily ```.java```,``` .py```
-- 🌱 I’m currently Web Development and Machine Learning
+- 🌱 I’m currently learning Web Development and Machine Learning
 - 💫 I’m looking to collaborate on **Artificial Intelligence research and Data Science projects**
 - 📧 Email : sriharshitha.deepala@gmail.com
 - 😄 Pronouns : She/Her
