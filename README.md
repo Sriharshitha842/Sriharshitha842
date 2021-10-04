@@ -8,6 +8,7 @@
 <a href="https://twitter.com/Harshitha6174?s=08" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/twitter+icon-1320183239913758690.png" alt="Harshitha" height="40" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sriharshitha842&label=Profile%20views&color=0e75b6&style=flat" alt="Sriharshitha842" /> </p>
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
