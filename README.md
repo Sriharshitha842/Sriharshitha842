@@ -10,20 +10,31 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I love to code
 - 🤔 I use daily ```.java```,``` .py```
 - 🌱 I’m currently Web Development and Machine Learning
-- 😄 Pronouns: She/Her
+- 💫 I’m looking to collaborate on **Artificial Intelligence research and Data Science projects**
+- 📧 Email : sriharshitha.deepala@gmail.com
+- 😄 Pronouns : She/Her
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="60" height="70"/> 
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/>
   
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="60" height="60"/> 
   
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="60" height="60"/>
   
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="60" height="60"/> 
   
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="60" height="60"/> 
+
+<img src="https://uk.mathworks.com/company/newsletters/articles/the-mathworks-logo-is-an-eigenfunction-of-the-wave-equation/_jcr_content/mainParsys/image_2.adapt.480.medium.gif/1469941373397.gif" alt="Matlab" width=60 height = 60>
+  
+<img src = "https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt = "R" width = 60 height = 60>
+
+<img src = "https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt = "RaspberryPi" width = 60 height = 60>
 </p>
 
 ---
 ### 🐱My Github stats:
-![Harshitha's github stats](https://github-readme-stats.vercel.app/api?username=Sriharshitha842&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=[%22stars%22])
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriharshitha842&show_icons=true&theme=radical" alt="Sriharshitha842"/></p>
