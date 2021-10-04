@@ -1,6 +1,11 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
-<a href="https://www.linkedin.com/in/sriharshitha-deepala-4111b91b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sriharshitha Deepala" height="20" width="20" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/sriharshitha-deepala-4111b91b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sriharshitha Deepala" height="40" width="40" /></a>&nbsp;
+<a href="https://www.hackerrank.com/sriharshitha_de1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/sriharshitha_de1" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/sriharshithadeepala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Harshitha" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/sriharshitha12" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" alt="Harshitha" height="40" width="40" /></a>
+<a href="https://www.hackerearth.com/@sriharshitha.deepala" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/hackerearth-1324440171516683058.png" alt="Harshitha" height="40" width="40" /></a>
+<a href="https://twitter.com/Harshitha6174?s=08" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/twitter+icon-1320183239913758690.png" alt="Harshitha" height="40" width="40" /></a>
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
