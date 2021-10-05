@@ -46,3 +46,4 @@
 ### 🐱My Github stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriharshitha842&show_icons=true&theme=radical" alt="Sriharshitha842"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sriharshitha842&" alt="Sriharshitha842" /></p>
