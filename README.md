@@ -6,6 +6,7 @@
 <a href="https://www.codechef.com/users/sriharshitha12" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" alt="Harshitha" height="40" width="40" /></a>
 <a href="https://www.hackerearth.com/@sriharshitha.deepala" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/hackerearth-1324440171516683058.png" alt="Harshitha" height="40" width="40" /></a>
 <a href="https://twitter.com/Harshitha6174?s=08" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/twitter+icon-1320183239913758690.png" alt="Harshitha" height="50" width="50" /></a>
+<a href="https://www.instagram.com/harshitha_deepala/" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/instagram+instagram+2016+instagram+logo+new+new+instagram-1320190551503549952.png" alt="Harshitha" height="40" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sriharshitha842&label=Profile%20views&color=0e75b6&style=flat" alt="Sriharshitha842" /> </p>
