@@ -47,3 +47,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriharshitha842&show_icons=true&theme=radical" alt="Sriharshitha842"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sriharshitha842&" alt="Sriharshitha842" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriharshitha842&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sriharshitha842/github-readme-stats)
