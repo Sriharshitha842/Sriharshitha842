@@ -48,9 +48,9 @@
 ---
 ### 🐱My Github stats:
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sriharshitha842&show_icons=true&theme=radical" alt="Sriharshitha842"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriharshitha842&show_icons=true&theme=radical" alt="Sriharshitha842"/></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriharshitha842&theme=algolia" alt="Sriharshitha842"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sriharshitha842&theme=algolia" alt="Sriharshitha842"  /></p>
 
 ----
 Credit: [Sriharshitha842](https://github.com/Sriharshitha842)
