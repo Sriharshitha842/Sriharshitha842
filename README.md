@@ -11,6 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sriharshitha842&label=Profile%20views&color=0e75b6&style=flat" alt="Sriharshitha842" /> </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
@@ -46,9 +49,9 @@
 ### 🐱My Github stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriharshitha842&show_icons=true&theme=radical" alt="Sriharshitha842"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sriharshitha842&" alt="Sriharshitha842" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriharshitha842&theme=algolia" alt="Sriharshitha842"  /></p>
 
 ----
 Credit: [Sriharshitha842](https://github.com/Sriharshitha842)
 
-Last Edited on: 05/10/21
+Last Edited on: 06/10/21
