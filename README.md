@@ -22,7 +22,6 @@
 - 🤔 I use daily ```.java```,``` .py```
 - 🌱 I’m currently learning Deep Learning
 - 💫 I’m looking to collaborate on **Data Science projects**
-- 📧 Email : sriharshitha.deepala@gmail.com
 - 😄 Pronouns : She/Her
 
 <p align="center">
